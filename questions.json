@@ -1,0 +1,42 @@
+[
+    {
+        "title":"what is my name ?",
+        "answer_1": "Saleh",
+        "answer_2": "Adel",
+        "answer_3": "Sameh",
+        "answer_4": "Mohamed",
+        "right_answer" : "Adel"
+    },
+    {
+        "title":"what is my lastname ?",
+        "answer_1": "Saleh",
+        "answer_2": "Adel",
+        "answer_3": "Sameh",
+        "answer_4": "Mohamed",
+        "right_answer" : "Sameh"
+    },
+    {
+        "title":"what is my favorite music",
+        "answer_1": "sad",
+        "answer_2": "fuckin romantic",
+        "answer_3": "rap",
+        "answer_4": "I have no favorite music",
+        "right_answer" : "I have no favorite music"
+    },
+    {
+        "title":"what maks me happy the most ?",
+        "answer_1": "playing football",
+        "answer_2": "playing chess",
+        "answer_3": "coding",
+        "answer_4": "hand out with friends",
+        "right_answer" : "coding"
+    },
+    {
+        "title":"Is html a programming language ?",
+        "answer_1": "yes",
+        "answer_2": "no",
+        "answer_3": "I think so",
+        "answer_4": "IDGF",
+        "right_answer" : "IDGF"
+    }
+]
