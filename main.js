@@ -24,8 +24,7 @@ function getQuestions() {
 
             submit.onclick = () => {
                 let rightAnswer = questionsObject[currentIndex].right_answer;
-                currentIndex++;
-                console.log(currentIndex);
+                currentIndex++;0
                 checkAnswer(rightAnswer, questionsCount);
                 quizArea.innerHTML = "";
                 answersArea.innerHTML = "";
